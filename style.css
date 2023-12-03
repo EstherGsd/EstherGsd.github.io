@@ -1,5 +1,14 @@
-body{
+section{
     background-image: url("./images/dog_face.jpg");
     background-repeat: no-repeat;
     background-size: cover; 
 }
+
+nav {
+    height: 80px;
+    background: #c4d3cb;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0rem calc((100vw - 1300px) / 2);
+  }
