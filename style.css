@@ -1,3 +1,10 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'American Typewriter', 'Courier New', 'DejaVu Sans Mono', monospace, serif;
+  }
+
 body {
     background-image: url("./images/dog_face.jpg");
     background-repeat: no-repeat;
