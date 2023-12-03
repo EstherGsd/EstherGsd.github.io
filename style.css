@@ -28,3 +28,11 @@ nav {
     font-style: italic;
     padding: 0 2rem;
   }
+
+  button{
+    background-color: #ebd6bf;
+    color: #000; 
+    padding: 15px; 
+    border-radius: 15px;
+  }
+
