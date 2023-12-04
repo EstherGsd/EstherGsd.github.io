@@ -10,6 +10,11 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+
+    height:100vh; 
+    display: flex; 
+    justify-content: center;
+    align-items: center;
 }
 
 nav {
@@ -28,6 +33,13 @@ nav {
     padding: 0 2rem;
 }
 
+section {
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    width: 100%
+}
+
 button{
     background-color: #ebd6bf;
     color: #000; 
@@ -42,4 +54,5 @@ button{
     justify-content: center;
     align-items: flex-start;
     padding: 15px 12px; 
+    gap: 15px; 
 }
