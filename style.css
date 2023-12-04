@@ -33,11 +33,13 @@ nav {
 nav a {
     text-decoration: none;
     color: #e77a6b;
+    font-weight: bold;
+    font-size: 1.2rem;
     padding: 0 1rem; 
 }
 
 .bark {
-    color: #000;
+    color: #0a0908;
     font-size: 1.5rem;
     font-weight: bold;
     font-style: italic;
@@ -53,17 +55,24 @@ section {
 
 button{
     background-color: #ebd6bf;
-    color: #000; 
-    padding: 15px; 
+    color: #0a0908; 
+    padding: 1rem 3ren; 
     border-radius: 15px;
     font-weight: bold; 
+    cursor: pointer;
+}
+
+button:hover{
+    transition: 0.2s; 
+    background-color: #efdecc;
 }
 
 .homeMain{
+    margin-top: -20px; 
     display: flex; 
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    padding: 15px 12px; 
+    padding: 0rem 2rem; 
     gap: 30px; 
 }
