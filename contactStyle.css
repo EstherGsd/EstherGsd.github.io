@@ -46,3 +46,20 @@ nav a {
     font-style: italic;
     padding: 0 2rem;
 }
+
+section {
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    width: 100%
+}
+
+.contactMain{
+    margin-top: -2rem; 
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 0rem 2rem; 
+    gap: 2rem; 
+}
