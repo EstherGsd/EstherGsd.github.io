@@ -47,9 +47,8 @@ nav a {
 }
 
 audio {
-    width: 100%; 
     display: block; 
-    margin-top: 80px; 
+    margin-top: -20px; 
     margin-left: 0; 
 }
 
