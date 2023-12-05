@@ -53,6 +53,10 @@ audio {
     margin-left: 0; 
 }
 
+audio::-webkit-media-controls-panel {
+    background-color: #ebd6bf;
+  }
+
 section {
     display: flex; 
     justify-content: center;
