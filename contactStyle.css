@@ -49,6 +49,7 @@ nav a {
 }
 
 section {
+    margin-left: 1rem; 
     display: flex; 
     justify-content: center;
     align-items: center;
