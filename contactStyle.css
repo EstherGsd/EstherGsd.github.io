@@ -63,3 +63,7 @@ section {
     padding: 0rem 2rem; 
     gap: 2rem; 
 }
+
+p{
+    font-size: 1.2rem;
+}
