@@ -66,6 +66,10 @@ section {
     gap: 2rem; 
 }
 
+.leftImg{
+    margin-left: 10px;
+}
+
 img{
     width: 200px;  
     height: auto;
