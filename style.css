@@ -46,6 +46,13 @@ nav a {
     padding: 0 2rem;
 }
 
+audio {
+    width: 100%; 
+    display: block; 
+    margin-top: 80px; 
+    margin-left: 0; 
+}
+
 section {
     display: flex; 
     justify-content: center;
